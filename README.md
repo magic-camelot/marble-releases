@@ -14,4 +14,4 @@ Die alte Adresse `magic-camelot.github.io/marble-releases/` leitet automatisch w
 Eine von hier installierte App räumt beim nächsten Start ihren alten Zwischenspeicher auf und landet dann ebenfalls an der neuen Adresse.
 Dort lässt sie sich neu installieren.
 
-Magic Marble ist kostenlos. Wenn dir das Spiel Freude macht: [Spenden über PayPal](https://paypal.me/thomaspfalzgraf).
+Magic Marble ist kostenlos. Wenn dir das Spiel Freude macht: [Unterstützen über PayPal](https://paypal.me/thomaspfalzgraf).
