@@ -1,0 +1,203 @@
+{
+  "generated": "2026-09-29T20:31:20.017Z",
+  "props": {
+    "car-concept": {
+      "url": "assets/props/car-concept.glb",
+      "title": "Concept Car",
+      "triangles": 92798,
+      "fileKB": 724,
+      "textureMB": 14.8,
+      "size": [
+        2.544,
+        1.15,
+        4.36
+      ],
+      "min": [
+        -1.272,
+        0,
+        -2.18
+      ],
+      "collider": {
+        "type": "box"
+      }
+    },
+    "lantern": {
+      "url": "assets/props/lantern.glb",
+      "title": "Alte Straßenlaterne",
+      "triangles": 5394,
+      "fileKB": 331,
+      "textureMB": 22.3,
+      "size": [
+        2.535,
+        4.2,
+        0.758
+      ],
+      "min": [
+        -0.642,
+        0,
+        -0.379
+      ],
+      "collider": {
+        "type": "cylinder",
+        "radius": 0.1
+      }
+    },
+    "manhole-cover": {
+      "url": "assets/props/manhole-cover.glb",
+      "title": "Kanaldeckel",
+      "triangles": 144,
+      "fileKB": 69,
+      "textureMB": 2.8,
+      "size": [
+        0.62,
+        0.035,
+        0.62
+      ],
+      "min": [
+        -0.31,
+        0,
+        -0.31
+      ],
+      "collider": {
+        "type": "none"
+      }
+    }
+  },
+  "materials": {
+    "asphalt": {
+      "url": "assets/materials/asphalt.glb",
+      "title": "Asphalt 02",
+      "scale": 3,
+      "fileKB": 1082,
+      "textureMB": 16.7
+    },
+    "cobblestone": {
+      "url": "assets/materials/cobblestone.glb",
+      "title": "Cobblestone Floor 08",
+      "scale": 2,
+      "fileKB": 707,
+      "textureMB": 16.7
+    },
+    "paving": {
+      "url": "assets/materials/paving.glb",
+      "title": "Rock Tile Floor",
+      "scale": 1.96,
+      "fileKB": 782,
+      "textureMB": 16.7
+    },
+    "planks": {
+      "url": "assets/materials/planks.glb",
+      "title": "Weathered Brown Planks",
+      "scale": 1.8,
+      "fileKB": 486,
+      "textureMB": 16.7
+    },
+    "sidewalk": {
+      "url": "assets/materials/sidewalk.glb",
+      "title": "Patterned Brick Floor",
+      "scale": 1.81,
+      "fileKB": 616,
+      "textureMB": 16.7
+    },
+    "wall": {
+      "url": "assets/materials/wall.glb",
+      "title": "Medieval Blocks 05",
+      "scale": 2,
+      "fileKB": 774,
+      "textureMB": 16.7
+    },
+    "hull-plate": {
+      "url": "assets/materials/hull-plate.glb",
+      "title": "Metal Plate 02",
+      "scale": 2,
+      "fileKB": 422,
+      "textureMB": 16.7
+    },
+    "tread-plate": {
+      "url": "assets/materials/tread-plate.glb",
+      "title": "Metal Plate",
+      "scale": 0.5,
+      "fileKB": 487,
+      "textureMB": 16.7
+    }
+  },
+  "credits": [
+    {
+      "asset": "props/car-concept",
+      "title": "Concept Car",
+      "spdx": "CC-BY-4.0",
+      "author": "Eric Chadwick, Darmstadt Graphics Group GmbH (nach einem CC0-Modell von Unity Fan)",
+      "url": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/CarConcept"
+    },
+    {
+      "asset": "props/lantern",
+      "title": "Alte Straßenlaterne",
+      "spdx": "CC0-1.0",
+      "author": "sbtron (Microsoft)",
+      "url": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/Lantern"
+    },
+    {
+      "asset": "props/manhole-cover",
+      "title": "Kanaldeckel",
+      "spdx": "CC0-1.0",
+      "author": "Marble Odyssey (prozedural erzeugt)",
+      "url": ""
+    },
+    {
+      "asset": "materials/asphalt",
+      "title": "Asphalt 02",
+      "spdx": "CC0-1.0",
+      "author": "Rob Tuytel (Poly Haven)",
+      "url": "https://polyhaven.com/a/asphalt_02"
+    },
+    {
+      "asset": "materials/cobblestone",
+      "title": "Cobblestone Floor 08",
+      "spdx": "CC0-1.0",
+      "author": "Rob Tuytel (Poly Haven)",
+      "url": "https://polyhaven.com/a/cobblestone_floor_08"
+    },
+    {
+      "asset": "materials/hull-plate",
+      "title": "Metal Plate 02",
+      "spdx": "CC0-1.0",
+      "author": "Rob Tuytel (Poly Haven)",
+      "url": "https://polyhaven.com/a/metal_plate_02"
+    },
+    {
+      "asset": "materials/paving",
+      "title": "Rock Tile Floor",
+      "spdx": "CC0-1.0",
+      "author": "Charlotte Baglioni (Poly Haven)",
+      "url": "https://polyhaven.com/a/rock_tile_floor"
+    },
+    {
+      "asset": "materials/planks",
+      "title": "Weathered Brown Planks",
+      "spdx": "CC0-1.0",
+      "author": "Dimitrios Savva, Rico Cilliers (Poly Haven)",
+      "url": "https://polyhaven.com/a/weathered_brown_planks"
+    },
+    {
+      "asset": "materials/sidewalk",
+      "title": "Patterned Brick Floor",
+      "spdx": "CC0-1.0",
+      "author": "Charlotte Baglioni (Poly Haven)",
+      "url": "https://polyhaven.com/a/patterned_brick_floor"
+    },
+    {
+      "asset": "materials/tread-plate",
+      "title": "Metal Plate",
+      "spdx": "CC0-1.0",
+      "author": "Rob Tuytel (Poly Haven)",
+      "url": "https://polyhaven.com/a/metal_plate"
+    },
+    {
+      "asset": "materials/wall",
+      "title": "Medieval Blocks 05",
+      "spdx": "CC0-1.0",
+      "author": "Rob Tuytel (Poly Haven)",
+      "url": "https://polyhaven.com/a/medieval_blocks_05"
+    }
+  ]
+}
