@@ -4,10 +4,14 @@ Magic Marble – because of my good old Amiga days ;-)
 
 Ein Murmel-Abenteuer von Magic Camelot, inspiriert von Marble Madness: prozedurale Neon-Steampunk-Welten im Nebel, im Browser auf Desktop und Handy.
 
-**Spielen:** https://magic-camelot.github.io/marble-releases/
+## Magic Marble ist umgezogen
 
-**Als App installieren:** Im Spielmenü „Als App installieren“ (Chrome, Edge, Android) oder auf iPhone/iPad in Safari „Teilen“ → „Zum Home-Bildschirm“. Danach startet das Spiel wie eine App und läuft auch offline.
+**Spielen:** https://www.magic-camelot.com/marble/play/
+**Mehr zum Spiel:** https://www.magic-camelot.com/marble/
 
-**Feedback und Wünsche:** Über den Knopf „Feedback & Wünsche“ im Spielmenü. Level, Gerät und Version werden automatisch mitgeschickt.
+Das Spiel läuft jetzt auf dem eigenen Server von Magic Camelot, ohne fremde Dienste dazwischen.
+Die alte Adresse `magic-camelot.github.io/marble-releases/` leitet automatisch weiter.
+Eine von hier installierte App räumt beim nächsten Start ihren alten Zwischenspeicher auf und landet dann ebenfalls an der neuen Adresse.
+Dort lässt sie sich neu installieren.
 
-Dieses Repository enthält nur das fertig gebaute Spiel (Build `2d65c34`). Magic Marble ist kostenlos. Wenn dir das Spiel Freude macht: [Spenden über PayPal](https://paypal.me/thomaspfalzgraf).
+Magic Marble ist kostenlos. Wenn dir das Spiel Freude macht: [Spenden über PayPal](https://paypal.me/thomaspfalzgraf).
